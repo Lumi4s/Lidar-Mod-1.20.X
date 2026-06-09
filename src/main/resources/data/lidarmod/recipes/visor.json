@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "lrl",
+    "psp",
+    "   "
+  ],
+  "key": {
+    "p": {
+      "item": "minecraft:glass_pane"
+    },
+    "r": {
+      "item": "minecraft:redstone_block"
+    },
+    "l": {
+      "item": "minecraft:leather"
+    },
+    "s": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "item": "lidarmod:visor"
+  }
+}

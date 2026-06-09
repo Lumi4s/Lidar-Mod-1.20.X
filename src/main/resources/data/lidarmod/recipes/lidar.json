@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "idi",
+    "cpr",
+    "ili"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "d": {
+      "item": "minecraft:diamond"
+    },
+    "c": {
+      "item": "minecraft:comparator"
+    },
+    "p": {
+      "item": "minecraft:glass_pane"
+    },
+    "r": {
+      "item": "minecraft:repeater"
+    },
+    "l": {
+      "tag": "minecraft:logs"
+    }
+  },
+  "result": {
+    "item": "lidarmod:lidar"
+  }
+}

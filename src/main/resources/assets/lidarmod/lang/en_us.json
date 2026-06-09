@@ -1,0 +1,8 @@
+{
+  "item.lidarmod.lidar": "LiDAR",
+  "item.lidarmod.visor": "Visor",
+
+  "tooltip.lidarmod.lidar.tooltip1": "Right-click to use.",
+  "tooltip.lidarmod.lidar.tooltip2": "Requires a §9Visor§r to see echoes.",
+  "tooltip.lidarmod.visor.tooltip": "Reveals §9LiDAR§r echoes when equipped."
+}
